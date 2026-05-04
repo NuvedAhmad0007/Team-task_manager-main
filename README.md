@@ -94,7 +94,7 @@ JWT_SECRET=your_secret_key
 
 ## 👨‍💻 Author
 
-* Jary Abbas
+* Nuved Ahmad
 
 ## 📌 Notes
 
